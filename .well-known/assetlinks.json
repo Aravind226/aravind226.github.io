@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "com.kuiralabs.starter.counter",
+      "package_name": "com.kuiralabs.starter.counter",
+      "sha256_cert_fingerprints": [
+        "61:87:C0:1B:3A:8C:A6:B8:6C:4E:1D:98:44:4B:4D:14:37:A5:59:66:08:7E:1E:7A:CD:8B:29:7A:DE:5B:EF:A6"
+      ]
+    }
+  }
+]
